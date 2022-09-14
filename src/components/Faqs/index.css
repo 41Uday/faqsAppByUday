@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  min-height: 100vh;
+  background-color: #f1f5f8;
+  padding: 100px;
+}
+.card {
+  background-color: white;
+  border-radius: 20px;
+  height: 70vh;
+  padding: 30px;
+  overflow-y: scroll;
+}
+
+.head-1 {
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: #cb8805;
+  text-align: center;
+}
+
+.list-container {
+  list-style-type: none;
+}
